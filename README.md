@@ -23,7 +23,7 @@ A privacy-focused personal finance dashboard built with Next.js, TypeScript, and
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:ruhulaminparvez/ai-finance-dashboard.git
 cd ai-finance-dashboard
 ```
 
